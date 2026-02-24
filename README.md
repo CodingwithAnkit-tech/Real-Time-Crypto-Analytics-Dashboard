@@ -140,7 +140,9 @@ Real-Time-Crypto-Analytics-Dashboard/
 
 <img width="1328" height="730" alt="cryptomain ss" src="https://github.com/user-attachments/assets/e3ca4fbf-126f-4117-bcbe-ac53045a7893" />
 
-<img width="1328" height="730" alt="crypto1 ss" src="https://github.com/user-attachments/assets/571462db-3495-4ecb-baaf-0d28ded48370" />
+
+<img width="1886" height="971" alt="cryptoss" src="https://github.com/user-attachments/assets/5c061456-9698-4e2d-89f4-4a08b104462a" />
+
 
 # 👨‍💻 Author
 
