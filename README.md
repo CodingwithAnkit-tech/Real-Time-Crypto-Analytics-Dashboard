@@ -144,7 +144,6 @@ Real-Time-Crypto-Analytics-Dashboard/
 <img width="1886" height="971" alt="cryptoss" src="https://github.com/user-attachments/assets/5c061456-9698-4e2d-89f4-4a08b104462a" />
 
 
-
 # 👨‍💻 Author
 
 - Ankit Verma
